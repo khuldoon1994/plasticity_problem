@@ -1,0 +1,232 @@
+Notation dx[meshfunction] is deprecated. Please use dx(subdomain_data=meshfunction) instead.
+Load multiplier:  0.2345207879911715
+Increment: 1
+   Initial Residual: 2.8536823843964196
+Displacement Increment Norm:  0.052824049598397066
+Displacement Correction Norm:  0.052824049598397066
+    Residual: 3.716443550066218e-12
+Load multiplier:  0.33166247903554
+Increment: 2
+   Initial Residual: 1.1820339463222163
+Displacement Increment Norm:  0.021880437763134006
+Displacement Correction Norm:  0.021880437763134006
+    Residual: 1.5321431486751666e-12
+Load multiplier:  0.4062019202317981
+Increment: 3
+   Initial Residual: 0.9070065477203126
+Displacement Increment Norm:  0.016789450404442366
+Displacement Correction Norm:  0.016789450404442366
+    Residual: 1.199152370802496e-12
+Load multiplier:  0.469041575982343
+Increment: 4
+   Initial Residual: 0.7646418903539601
+Displacement Increment Norm:  0.014154161430836226
+Displacement Correction Norm:  0.014154161430836226
+    Residual: 1.0166604192008773e-12
+Load multiplier:  0.5244044240850758
+Increment: 5
+   Initial Residual: 0.6736630289112562
+Displacement Increment Norm:  0.012470066552045581
+Displacement Correction Norm:  0.012470066552045581
+    Residual: 8.844666486649762e-13
+Load multiplier:  0.574456264653803
+Increment: 6
+   Initial Residual: 0.6090379320360081
+Displacement Increment Norm:  0.011273801914709225
+Displacement Correction Norm:  0.011273801914709225
+    Residual: 8.025242126739244e-13
+Load multiplier:  0.6204836822995429
+Increment: 7
+   Initial Residual: 0.5600681801386993
+Displacement Increment Norm:  0.010367330817157723
+Displacement Correction Norm:  0.010367330817157723
+    Residual: 7.371367455186709e-13
+Load multiplier:  0.66332495807108
+Increment: 8
+   Initial Residual: 0.5212987515584766
+Displacement Increment Norm:  0.0096496762423471
+Displacement Correction Norm:  0.0096496762423471
+    Residual: 6.870404103611057e-13
+Load multiplier:  0.7035623639735145
+Increment: 9
+   Initial Residual: 0.48961449175205096
+Displacement Increment Norm:  0.009063174072148227
+Displacement Correction Norm:  0.009063174072148227
+    Residual: 6.454436257484143e-13
+Load multiplier:  0.7416198487095663
+Increment: 10
+   Initial Residual: 0.4630889002035875
+Displacement Increment Norm:  0.00857216316944777
+Displacement Correction Norm:  0.00857216316944777
+    Residual: 6.190325831145097e-13
+Load multiplier:  0.7778174593052023
+Increment: 11
+   Initial Residual: 0.4404576864968527
+Displacement Increment Norm:  0.008153240460371136
+Displacement Correction Norm:  0.008153240460371136
+    Residual: 0.038333212208671974
+Displacement Increment Norm:  0.008159504758946268
+Displacement Correction Norm:  6.484563493249942e-06
+    Residual: 0.00941407166254064
+Displacement Increment Norm:  0.008159932794285672
+Displacement Correction Norm:  6.50696584262096e-07
+    Residual: 3.735324110863068e-07
+Displacement Increment Norm:  0.008159932805942122
+Displacement Correction Norm:  1.8843930193689136e-11
+    Residual: 2.287815103657929e-13
+Load multiplier:  0.8124038404635961
+Increment: 12
+   Initial Residual: 0.4208520169881257
+Displacement Increment Norm:  0.00796282649091649
+Displacement Correction Norm:  0.00796282649091649
+    Residual: 0.791883884105799
+Displacement Increment Norm:  0.008441868093069219
+Displacement Correction Norm:  0.0004796777021717743
+    Residual: 0.018455342805059834
+Displacement Increment Norm:  0.008444326700723218
+Displacement Correction Norm:  2.549921623436191e-06
+    Residual: 0.0027876784924219084
+Displacement Increment Norm:  0.008444384444698088
+Displacement Correction Norm:  1.6714414493831922e-07
+    Residual: 9.744935699066004e-08
+Displacement Increment Norm:  0.008444384446248935
+Displacement Correction Norm:  5.244004649257914e-12
+    Residual: 2.345399030968071e-13
+Load multiplier:  0.8455767262643882
+Increment: 13
+   Initial Residual: 0.4036524039518274
+Displacement Increment Norm:  0.008605387672761831
+Displacement Correction Norm:  0.008605387672761831
+    Residual: 0.9238238575584016
+Displacement Increment Norm:  0.009187015921110117
+Displacement Correction Norm:  0.0005822939781157081
+    Residual: 0.027697985657364567
+Displacement Increment Norm:  0.009192235995552458
+Displacement Correction Norm:  7.161793864677836e-06
+    Residual: 1.911513999980798e-05
+Displacement Increment Norm:  0.009192237463048524
+Displacement Correction Norm:  2.262598546647078e-09
+    Residual: 3.0581010894590424e-11
+Load multiplier:  0.8774964387392122
+Increment: 14
+   Initial Residual: 0.38840361225399844
+Displacement Increment Norm:  0.009452417442568493
+Displacement Correction Norm:  0.009452417442568493
+    Residual: 0.9988012611077881
+Displacement Increment Norm:  0.0102219112606526
+Displacement Correction Norm:  0.0007713847209686397
+    Residual: 0.026371308427504063
+Displacement Increment Norm:  0.010227238569013239
+Displacement Correction Norm:  6.742009865199139e-06
+    Residual: 0.0013707668811004943
+Displacement Increment Norm:  0.010227283370045222
+Displacement Correction Norm:  6.362027839408805e-08
+    Residual: 6.493994020933267e-09
+Displacement Increment Norm:  0.010227283370513011
+Displacement Correction Norm:  7.268622652059521e-13
+    Residual: 2.6050365197166237e-13
+Load multiplier:  0.9082951062292476
+Increment: 15
+   Initial Residual: 0.3747625770492671
+Displacement Increment Norm:  0.010689094584744019
+Displacement Correction Norm:  0.010689094584744019
+    Residual: 1.0859439807580356
+Displacement Increment Norm:  0.01175051116679905
+Displacement Correction Norm:  0.0010624774638264842
+    Residual: 0.02713049139100856
+Displacement Increment Norm:  0.011757225745040222
+Displacement Correction Norm:  7.41240768196846e-06
+    Residual: 0.0012268811295825354
+Displacement Increment Norm:  0.01175731116112248
+Displacement Correction Norm:  1.051232811876241e-07
+    Residual: 5.641280502594446e-08
+Displacement Increment Norm:  0.011757311163599116
+Displacement Correction Norm:  3.953391222349381e-12
+    Residual: 3.028028106432112e-13
+Load multiplier:  0.938083151964686
+Increment: 16
+   Initial Residual: 0.3624651874528724
+Displacement Increment Norm:  0.012561626738389885
+Displacement Correction Norm:  0.012561626738389885
+    Residual: 1.2321719194484955
+Displacement Increment Norm:  0.014218259846861845
+Displacement Correction Norm:  0.0016589562936198754
+    Residual: 0.06626966273658991
+Displacement Increment Norm:  0.014246194174459863
+Displacement Correction Norm:  3.083032106241068e-05
+    Residual: 0.0008322388213040449
+Displacement Increment Norm:  0.014246239269991249
+Displacement Correction Norm:  1.4148507585449767e-07
+    Residual: 7.73702672776615e-09
+Displacement Increment Norm:  0.014246239270237387
+Displacement Correction Norm:  1.2643113562354143e-12
+    Residual: 3.5145869129156606e-13
+Load multiplier:  0.9669539802906859
+Increment: 17
+   Initial Residual: 0.35130435524521764
+Displacement Increment Norm:  0.015926935524106595
+Displacement Correction Norm:  0.015926935524106595
+    Residual: 1.3696693725797897
+Displacement Increment Norm:  0.01911237379293437
+Displacement Correction Norm:  0.0031883422402975373
+    Residual: 0.15576929421834812
+Displacement Increment Norm:  0.019240320188721093
+Displacement Correction Norm:  0.00012860157783150863
+    Residual: 0.01767197454115138
+Displacement Increment Norm:  0.019241062254457725
+Displacement Correction Norm:  3.2988408763833893e-06
+    Residual: 2.078056547885847e-06
+Displacement Increment Norm:  0.01924106244000855
+Displacement Correction Norm:  1.6495881002595464e-09
+    Residual: 5.920079904215945e-13
+Load multiplier:  0.99498743710662
+Increment: 18
+   Initial Residual: 0.3411150993249346
+Displacement Increment Norm:  0.02334067531031178
+Displacement Correction Norm:  0.02334067531031178
+    Residual: 1.9267923068673531
+Displacement Increment Norm:  0.03732788427060055
+Displacement Correction Norm:  0.013988484404720095
+    Residual: 0.9840403259313575
+Displacement Increment Norm:  0.04683254025932732
+Displacement Correction Norm:  0.009505039039174679
+    Residual: 0.6786495894058818
+Displacement Increment Norm:  0.053297632018417154
+Displacement Correction Norm:  0.006465245519262955
+    Residual: 0.009972329827173337
+Displacement Increment Norm:  0.05345060332226726
+Displacement Correction Norm:  0.00015298397291359995
+    Residual: 6.310982521790518e-06
+Displacement Increment Norm:  0.053450705101212095
+Displacement Correction Norm:  1.0180937787502514e-07
+    Residual: 5.128723061232267e-12
+Load multiplier:  1.0222524150130436
+Increment: 19
+   Initial Residual: 0.3317641383905844
+Displacement Increment Norm:  0.2413791164876603
+Displacement Correction Norm:  0.2413791164876603
+    Residual: 1.848535226034017
+Displacement Increment Norm:  0.38096354952176625
+Displacement Correction Norm:  0.1395859645709807
+    Residual: 0.20933306885852473
+Displacement Increment Norm:  0.39198353607496367
+Displacement Correction Norm:  0.011020155350626384
+    Residual: 0.0008709397831480779
+Displacement Increment Norm:  0.3920212307214965
+Displacement Correction Norm:  3.769535514859673e-05
+    Residual: 1.083059506908246e-08
+Displacement Increment Norm:  0.3920212311742476
+Displacement Correction Norm:  4.527584819514884e-10
+    Residual: 7.492491134557456e-12
+Load multiplier:  1.0488088481701516
+Increment: 20
+   Initial Residual: 0.32314246486195675
+Displacement Increment Norm:  0.48885281859472135
+Displacement Correction Norm:  0.48885281859472135
+    Residual: 0.20127574729560824
+Displacement Increment Norm:  0.504818243319945
+Displacement Correction Norm:  0.015965502023883242
+    Residual: 0.0005091266457721779
+Displacement Increment Norm:  0.5048270176576634
+Displacement Correction Norm:  8.774989502951908e-06
+    Residual: 5.549065783024947e-10

@@ -1,0 +1,2011 @@
+Load multiplier:  ParameterCF, val = 0.234521
+
+Increment: 1
+Initial Residual: 4.9872906196764255
+Displacement Increment Norm:  0.015262370705414068
+Displacement Correction Norm:  0.015262370705414068
+Residual: 9.873192192881701
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  6.440029199250134e-16
+Residual: 9.873192192881723
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  3.827995161461964e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.01526237070541397
+Displacement Correction Norm:  1.5753487171801666e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  8.85787787153675e-18
+Residual: 9.873192192881723
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.776954450246714e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.686719087614448e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  5.348338760966729e-18
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  4.8654943477925844e-18
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  3.169614171105248e-17
+Residual: 9.873192192881726
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.1494182157356684e-17
+Residual: 9.873192192881714
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.5545890670659268e-17
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  8.826697598606283e-18
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  1.4004601516185477e-17
+Residual: 9.873192192881717
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  1.4592355033127097e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  2.6574243588033535e-17
+Residual: 9.873192192881723
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  1.1616450563148027e-17
+Residual: 9.873192192881715
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.0287766955687715e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  8.86645771797382e-18
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  1.676762303244582e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  6.8659196780996015e-18
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  1.675318998862127e-17
+Residual: 9.873192192881717
+Displacement Increment Norm:  0.015262370705413968
+Displacement Correction Norm:  5.401179009613916e-17
+Residual: 9.873192192881723
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.3418798882051424e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.4020820102384286e-17
+Residual: 9.873192192881715
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  2.5632866933277566e-17
+Residual: 9.873192192881726
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  1.2748411110275716e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  2.1280990404798958e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  9.467569976487649e-18
+Residual: 9.873192192881717
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  6.533949330027614e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  5.514712891847558e-17
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  7.587768422358807e-18
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  9.846590883730299e-18
+Residual: 9.873192192881724
+Displacement Increment Norm:  0.015262370705413962
+Displacement Correction Norm:  3.2158626858497094e-17
+Residual: 9.873192192881719
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  2.864194220675562e-17
+Residual: 9.873192192881717
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  8.817904872742525e-18
+Residual: 9.873192192881723
+Displacement Increment Norm:  0.015262370705413962
+Displacement Correction Norm:  3.609855472807559e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  6.353962346256614e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413964
+Displacement Correction Norm:  5.909533284701468e-17
+Residual: 9.87319219288172
+Displacement Increment Norm:  0.015262370705413966
+Displacement Correction Norm:  5.302904369029066e-18
+Residual: 9.873192192881719
+Load multiplier:  ParameterCF, val = 0.331662
+
+Increment: 2
+Initial Residual: 10.088047865866624
+Displacement Increment Norm:  0.006321880940148334
+Displacement Correction Norm:  0.006321880940148334
+Residual: 13.962802303089486
+Displacement Increment Norm:  0.006321880940148289
+Displacement Correction Norm:  2.8300492581872216e-16
+Residual: 18.169157888636636
+Displacement Increment Norm:  5.632374861213922e-16
+Displacement Correction Norm:  0.006321880940148379
+Residual: 18.169157888636644
+Displacement Increment Norm:  0.006321880940148379
+Displacement Correction Norm:  0.006321880940148288
+Residual: 13.962802303089504
+Displacement Increment Norm:  0.006321880940148242
+Displacement Correction Norm:  8.847204046290097e-16
+Residual: 10.088047865866638
+Displacement Increment Norm:  1.0989616475040452e-15
+Displacement Correction Norm:  0.006321880940148417
+Residual: 10.088047865866614
+Displacement Increment Norm:  0.006321880940148417
+Displacement Correction Norm:  0.006321880940148243
+Residual: 13.962802303089461
+Displacement Increment Norm:  0.006321880940148197
+Displacement Correction Norm:  1.3328559975094064e-15
+Residual: 18.16915788863662
+Displacement Increment Norm:  1.6319392215560707e-15
+Displacement Correction Norm:  0.006321880940148461
+Residual: 18.169157888636654
+Displacement Increment Norm:  0.00632188094014846
+Displacement Correction Norm:  0.006321880940148196
+Residual: 13.962802303089536
+Displacement Increment Norm:  0.0063218809401481574
+Displacement Correction Norm:  1.854656551028931e-15
+Residual: 10.08804786586665
+Displacement Increment Norm:  2.1824992547203658e-15
+Displacement Correction Norm:  0.006321880940148506
+Residual: 10.088047865866606
+Displacement Increment Norm:  0.006321880940148505
+Displacement Correction Norm:  0.006321880940148157
+Residual: 13.962802303089438
+Displacement Increment Norm:  0.0063218809401481115
+Displacement Correction Norm:  2.4306623432221153e-15
+Residual: 18.169157888636608
+Displacement Increment Norm:  2.7543892384314514e-15
+Displacement Correction Norm:  0.006321880940148553
+Residual: 18.16915788863667
+Displacement Increment Norm:  0.00632188094014855
+Displacement Correction Norm:  0.006321880940148109
+Residual: 13.962802303089553
+Displacement Increment Norm:  0.006321880940148065
+Displacement Correction Norm:  3.056624744891755e-15
+Residual: 10.08804786586666
+Displacement Increment Norm:  3.3142502422194875e-15
+Displacement Correction Norm:  0.006321880940148594
+Residual: 10.088047865866587
+Displacement Increment Norm:  0.006321880940148592
+Displacement Correction Norm:  0.006321880940148064
+Residual: 13.96280230308941
+Displacement Increment Norm:  0.0063218809401480195
+Displacement Correction Norm:  3.5277576630996968e-15
+Residual: 18.16915788863659
+Displacement Increment Norm:  3.896214701645572e-15
+Displacement Correction Norm:  0.006321880940148637
+Residual: 18.169157888636683
+Displacement Increment Norm:  0.006321880940148633
+Displacement Correction Norm:  0.0063218809401480135
+Residual: 13.962802303089585
+Displacement Increment Norm:  0.0063218809401479744
+Displacement Correction Norm:  4.182584850617374e-15
+Residual: 10.088047865866677
+Displacement Increment Norm:  4.455420254371039e-15
+Displacement Correction Norm:  0.006321880940148677
+Residual: 10.088047865866574
+Displacement Increment Norm:  0.006321880940148677
+Displacement Correction Norm:  0.006321880940147975
+Residual: 13.96280230308938
+Displacement Increment Norm:  0.0063218809401479285
+Displacement Correction Norm:  4.72812292880957e-15
+Residual: 18.169157888636576
+Displacement Increment Norm:  5.004315143406532e-15
+Displacement Correction Norm:  0.006321880940148724
+Residual: 18.169157888636693
+Displacement Increment Norm:  0.006321880940148727
+Displacement Correction Norm:  0.006321880940147933
+Residual: 13.962802303089603
+Displacement Increment Norm:  0.006321880940147885
+Displacement Correction Norm:  5.3673800136065025e-15
+Residual: 10.08804786586669
+Displacement Increment Norm:  5.671946668534477e-15
+Displacement Correction Norm:  0.006321880940148772
+Residual: 10.088047865866566
+Displacement Increment Norm:  0.0063218809401487715
+Displacement Correction Norm:  0.006321880940147885
+Residual: 13.962802303089362
+Displacement Increment Norm:  0.006321880940147839
+Displacement Correction Norm:  6.026977267921264e-15
+Residual: 18.169157888636573
+Displacement Increment Norm:  6.303749876701791e-15
+Displacement Correction Norm:  0.006321880940148816
+Residual: 18.169157888636697
+Displacement Increment Norm:  0.00632188094014882
+Displacement Correction Norm:  0.006321880940147846
+Residual: 13.962802303089623
+Displacement Increment Norm:  0.006321880940147801
+Displacement Correction Norm:  6.57811193901731e-15
+Residual: 10.088047865866699
+Displacement Increment Norm:  6.804448324087121e-15
+Displacement Correction Norm:  0.006321880940148867
+Residual: 10.088047865866546
+Displacement Increment Norm:  0.006321880940148869
+Displacement Correction Norm:  0.006321880940147801
+Residual: 13.96280230308934
+Displacement Increment Norm:  0.006321880940147755
+Displacement Correction Norm:  7.099923957498065e-15
+Residual: 18.169157888636573
+Displacement Increment Norm:  7.411947680173917e-15
+Displacement Correction Norm:  0.006321880940148914
+Residual: 18.169157888636718
+Displacement Increment Norm:  0.006321880940148913
+Displacement Correction Norm:  0.006321880940147755
+Residual: 13.962802303089655
+Load multiplier:  ParameterCF, val = 0.406202
+
+Increment: 3
+Initial Residual: 14.053312393333531
+Displacement Increment Norm:  0.004850949860166816
+Displacement Correction Norm:  0.004850949860166816
+Residual: 17.100870510963514
+Displacement Increment Norm:  0.004850949860166782
+Displacement Correction Norm:  1.8721024052110926e-16
+Residual: 20.300096512431825
+Displacement Increment Norm:  4.229381343582405e-16
+Displacement Correction Norm:  0.004850949860166853
+Residual: 20.300096512431832
+Displacement Increment Norm:  0.004850949860166851
+Displacement Correction Norm:  0.00485094986016678
+Residual: 17.10087051096354
+Displacement Increment Norm:  0.004850949860166747
+Displacement Correction Norm:  6.167270405012498e-16
+Residual: 14.053312393333547
+Displacement Increment Norm:  8.094151185936606e-16
+Displacement Correction Norm:  0.004850949860166887
+Residual: 14.053312393333531
+Displacement Increment Norm:  0.004850949860166885
+Displacement Correction Norm:  0.004850949860166744
+Residual: 17.1008705109635
+Displacement Increment Norm:  0.00485094986016671
+Displacement Correction Norm:  1.0241114779392529e-15
+Residual: 20.300096512431814
+Displacement Increment Norm:  1.2441583079917078e-15
+Displacement Correction Norm:  0.004850949860166918
+Residual: 20.300096512431836
+Displacement Increment Norm:  0.00485094986016692
+Displacement Correction Norm:  0.0048509498601667115
+Residual: 17.100870510963546
+Displacement Increment Norm:  0.004850949860166681
+Displacement Correction Norm:  1.4442205579222636e-15
+Residual: 14.053312393333547
+Displacement Increment Norm:  1.6697705334312067e-15
+Displacement Correction Norm:  0.004850949860166954
+Residual: 14.053312393333519
+Displacement Increment Norm:  0.004850949860166955
+Displacement Correction Norm:  0.004850949860166681
+Residual: 17.100870510963492
+Displacement Increment Norm:  0.004850949860166643
+Displacement Correction Norm:  1.8687260878247368e-15
+Residual: 20.30009651243181
+Displacement Increment Norm:  2.0721798900919714e-15
+Displacement Correction Norm:  0.004850949860166992
+Residual: 20.30009651243184
+Displacement Increment Norm:  0.004850949860166991
+Displacement Correction Norm:  0.004850949860166641
+Residual: 17.10087051096356
+Displacement Increment Norm:  0.004850949860166608
+Displacement Correction Norm:  2.3318472179666194e-15
+Residual: 14.053312393333561
+Displacement Increment Norm:  2.603797255130898e-15
+Displacement Correction Norm:  0.0048509498601670255
+Residual: 14.053312393333526
+Displacement Increment Norm:  0.0048509498601670255
+Displacement Correction Norm:  0.004850949860166609
+Residual: 17.10087051096348
+Displacement Increment Norm:  0.004850949860166574
+Displacement Correction Norm:  2.8049270575677814e-15
+Residual: 20.3000965124318
+Displacement Increment Norm:  3.0261926772165113e-15
+Displacement Correction Norm:  0.004850949860167064
+Residual: 20.300096512431843
+Displacement Increment Norm:  0.004850949860167065
+Displacement Correction Norm:  0.004850949860166575
+Residual: 17.100870510963567
+Displacement Increment Norm:  0.004850949860166536
+Displacement Correction Norm:  3.2330565857669222e-15
+Residual: 14.053312393333572
+Displacement Increment Norm:  3.493367470653032e-15
+Displacement Correction Norm:  0.004850949860167096
+Residual: 14.05331239333352
+Displacement Increment Norm:  0.004850949860167094
+Displacement Correction Norm:  0.004850949860166536
+Residual: 17.100870510963468
+Displacement Increment Norm:  0.004850949860166505
+Displacement Correction Norm:  3.702482594524009e-15
+Residual: 20.300096512431793
+Displacement Increment Norm:  3.936787935087268e-15
+Displacement Correction Norm:  0.0048509498601671365
+Residual: 20.30009651243184
+Displacement Increment Norm:  0.00485094986016713
+Displacement Correction Norm:  0.0048509498601665
+Residual: 17.100870510963578
+Displacement Increment Norm:  0.004850949860166467
+Displacement Correction Norm:  4.1513746319625615e-15
+Residual: 14.053312393333583
+Displacement Increment Norm:  4.397180639859857e-15
+Displacement Correction Norm:  0.004850949860167163
+Residual: 14.053312393333517
+Displacement Increment Norm:  0.004850949860167162
+Displacement Correction Norm:  0.004850949860166467
+Residual: 17.100870510963457
+Displacement Increment Norm:  0.0048509498601664305
+Displacement Correction Norm:  4.5904491265501594e-15
+Residual: 20.300096512431775
+Displacement Increment Norm:  4.7424412866452045e-15
+Displacement Correction Norm:  0.004850949860167192
+Residual: 20.300096512431843
+Displacement Increment Norm:  0.004850949860167193
+Displacement Correction Norm:  0.004850949860166431
+Residual: 17.100870510963595
+Displacement Increment Norm:  0.0048509498601664
+Displacement Correction Norm:  4.937844967613686e-15
+Residual: 14.05331239333359
+Displacement Increment Norm:  5.155291659623681e-15
+Displacement Correction Norm:  0.004850949860167226
+Residual: 14.053312393333504
+Displacement Increment Norm:  0.004850949860167224
+Displacement Correction Norm:  0.0048509498601663975
+Residual: 17.100870510963432
+Displacement Increment Norm:  0.004850949860166366
+Displacement Correction Norm:  5.368770894949178e-15
+Residual: 20.300096512431764
+Displacement Increment Norm:  5.597639621874915e-15
+Displacement Correction Norm:  0.004850949860167259
+Residual: 20.300096512431857
+Displacement Increment Norm:  0.0048509498601672614
+Displacement Correction Norm:  0.004850949860166369
+Residual: 17.100870510963613
+Load multiplier:  ParameterCF, val = 0.469042
+
+Increment: 4
+Initial Residual: 17.15369868147062
+Displacement Increment Norm:  0.004089539905101049
+Displacement Correction Norm:  0.004089539905101049
+Residual: 19.74638438576344
+Displacement Increment Norm:  0.004089539905101021
+Displacement Correction Norm:  1.4339892719806533e-16
+Residual: 22.431044324345013
+Displacement Increment Norm:  3.544625289704987e-16
+Displacement Correction Norm:  0.004089539905101079
+Residual: 22.431044324345024
+Displacement Increment Norm:  0.0040895399051010806
+Displacement Correction Norm:  0.0040895399051010225
+Residual: 19.746384385763456
+Displacement Increment Norm:  0.0040895399051009956
+Displacement Correction Norm:  4.8104090984099735e-16
+Residual: 17.153698681470626
+Displacement Increment Norm:  6.520438425585323e-16
+Displacement Correction Norm:  0.004089539905101108
+Residual: 17.153698681470605
+Displacement Increment Norm:  0.004089539905101106
+Displacement Correction Norm:  0.004089539905100993
+Residual: 19.746384385763417
+Displacement Increment Norm:  0.004089539905100964
+Displacement Correction Norm:  8.754863699526242e-16
+Residual: 22.431044324345002
+Displacement Increment Norm:  1.0393093166164784e-15
+Displacement Correction Norm:  0.004089539905101136
+Residual: 22.431044324345027
+Displacement Increment Norm:  0.004089539905101133
+Displacement Correction Norm:  0.00408953990510096
+Residual: 19.746384385763474
+Displacement Increment Norm:  0.004089539905100936
+Displacement Correction Norm:  1.1727242032820908e-15
+Residual: 17.15369868147064
+Displacement Increment Norm:  1.346311661887419e-15
+Displacement Correction Norm:  0.004089539905101158
+Residual: 17.153698681470598
+Displacement Increment Norm:  0.004089539905101163
+Displacement Correction Norm:  0.004089539905100942
+Residual: 19.746384385763406
+Displacement Increment Norm:  0.004089539905100906
+Displacement Correction Norm:  1.5867819498887948e-15
+Residual: 22.431044324344995
+Displacement Increment Norm:  1.697456072461232e-15
+Displacement Correction Norm:  0.004089539905101192
+Residual: 22.431044324345038
+Displacement Increment Norm:  0.004089539905101193
+Displacement Correction Norm:  0.004089539905100908
+Residual: 19.746384385763488
+Displacement Increment Norm:  0.0040895399051008785
+Displacement Correction Norm:  1.9456328855598856e-15
+Residual: 17.153698681470644
+Displacement Increment Norm:  2.1694102015746423e-15
+Displacement Correction Norm:  0.0040895399051012185
+Residual: 17.153698681470598
+Displacement Increment Norm:  0.0040895399051012185
+Displacement Correction Norm:  0.004089539905100878
+Residual: 19.746384385763395
+Displacement Increment Norm:  0.004089539905100845
+Displacement Correction Norm:  2.28839410053713e-15
+Residual: 22.431044324344988
+Displacement Increment Norm:  2.4652753559740615e-15
+Displacement Correction Norm:  0.004089539905101245
+Residual: 22.43104432434504
+Displacement Increment Norm:  0.004089539905101248
+Displacement Correction Norm:  0.004089539905100847
+Residual: 19.746384385763502
+Displacement Increment Norm:  0.004089539905100825
+Displacement Correction Norm:  2.6360767501594223e-15
+Residual: 17.153698681470644
+Displacement Increment Norm:  2.846449432383813e-15
+Displacement Correction Norm:  0.004089539905101278
+Residual: 17.153698681470587
+Displacement Increment Norm:  0.004089539905101278
+Displacement Correction Norm:  0.004089539905100823
+Residual: 19.74638438576338
+Displacement Increment Norm:  0.0040895399051007935
+Displacement Correction Norm:  3.139563835944012e-15
+Residual: 22.431044324344985
+Displacement Increment Norm:  3.2022248479703896e-15
+Displacement Correction Norm:  0.004089539905101313
+Residual: 22.431044324345045
+Displacement Increment Norm:  0.004089539905101305
+Displacement Correction Norm:  0.004089539905100784
+Residual: 19.746384385763513
+Displacement Increment Norm:  0.004089539905100764
+Displacement Correction Norm:  3.3705491029853286e-15
+Residual: 17.153698681470654
+Displacement Increment Norm:  3.5491165984080525e-15
+Displacement Correction Norm:  0.004089539905101335
+Residual: 17.153698681470583
+Displacement Increment Norm:  0.004089539905101336
+Displacement Correction Norm:  0.004089539905100763
+Residual: 19.74638438576337
+Displacement Increment Norm:  0.004089539905100732
+Displacement Correction Norm:  3.740823257867012e-15
+Residual: 22.431044324344978
+Displacement Increment Norm:  3.901245402167289e-15
+Displacement Correction Norm:  0.004089539905101366
+Residual: 22.431044324345052
+Displacement Increment Norm:  0.004089539905101369
+Displacement Correction Norm:  0.004089539905100735
+Residual: 19.746384385763513
+Displacement Increment Norm:  0.004089539905100702
+Displacement Correction Norm:  4.155043380087963e-15
+Residual: 17.153698681470658
+Displacement Increment Norm:  4.344696371023521e-15
+Displacement Correction Norm:  0.004089539905101398
+Residual: 17.15369868147058
+Displacement Increment Norm:  0.004089539905101395
+Displacement Correction Norm:  0.004089539905100701
+Residual: 19.746384385763363
+Displacement Increment Norm:  0.00408953990510067
+Displacement Correction Norm:  4.456369470336335e-15
+Residual: 22.431044324344974
+Displacement Increment Norm:  4.730517003495913e-15
+Displacement Correction Norm:  0.004089539905101424
+Residual: 22.43104432434506
+Displacement Increment Norm:  0.004089539905101427
+Displacement Correction Norm:  0.004089539905100675
+Residual: 19.746384385763534
+Load multiplier:  ParameterCF, val = 0.524404
+
+Increment: 5
+Initial Residual: 19.78206352215418
+Displacement Increment Norm:  0.0036029569842799176
+Displacement Correction Norm:  0.0036029569842799176
+Residual: 22.07712889820374
+Displacement Increment Norm:  0.0036029569842798924
+Displacement Correction Norm:  1.6638741524906498e-16
+Residual: 24.43563964589835
+Displacement Increment Norm:  2.804903568304522e-16
+Displacement Correction Norm:  0.003602956984279941
+Residual: 24.435639645898355
+Displacement Increment Norm:  0.003602956984279944
+Displacement Correction Norm:  0.003602956984279896
+Residual: 22.077128898203757
+Displacement Increment Norm:  0.0036029569842798716
+Displacement Correction Norm:  4.461962816418969e-16
+Residual: 19.782063522154186
+Displacement Increment Norm:  6.261313261276885e-16
+Displacement Correction Norm:  0.0036029569842799644
+Residual: 19.782063522154168
+Displacement Increment Norm:  0.0036029569842799683
+Displacement Correction Norm:  0.003602956984279876
+Residual: 22.077128898203725
+Displacement Increment Norm:  0.003602956984279851
+Displacement Correction Norm:  7.435524627757303e-16
+Residual: 24.435639645898345
+Displacement Increment Norm:  8.896091644286295e-16
+Displacement Correction Norm:  0.0036029569842799996
+Residual: 24.43563964589837
+Displacement Increment Norm:  0.0036029569842800026
+Displacement Correction Norm:  0.0036029569842798534
+Residual: 22.07712889820377
+Displacement Increment Norm:  0.0036029569842798274
+Displacement Correction Norm:  1.0046427155564408e-15
+Residual: 19.782063522154182
+Displacement Increment Norm:  1.1787503068743152e-15
+Displacement Correction Norm:  0.0036029569842800277
+Residual: 19.782063522154154
+Displacement Increment Norm:  0.003602956984280027
+Displacement Correction Norm:  0.0036029569842798265
+Residual: 22.07712889820371
+Displacement Increment Norm:  0.0036029569842797988
+Displacement Correction Norm:  1.3976612159886743e-15
+Residual: 24.43563964589834
+Displacement Increment Norm:  1.5515610423087104e-15
+Displacement Correction Norm:  0.0036029569842800477
+Residual: 24.435639645898387
+Displacement Increment Norm:  0.0036029569842800486
+Displacement Correction Norm:  0.0036029569842797983
+Residual: 22.077128898203796
+Displacement Increment Norm:  0.0036029569842797784
+Displacement Correction Norm:  1.7191476278924666e-15
+Residual: 19.782063522154196
+Displacement Increment Norm:  1.886481896321828e-15
+Displacement Correction Norm:  0.0036029569842800716
+Residual: 19.78206352215414
+Displacement Increment Norm:  0.003602956984280072
+Displacement Correction Norm:  0.0036029569842797797
+Residual: 22.07712889820369
+Displacement Increment Norm:  0.003602956984279755
+Displacement Correction Norm:  2.0449633010913175e-15
+Residual: 24.43563964589833
+Displacement Increment Norm:  2.203361770574255e-15
+Displacement Correction Norm:  0.003602956984280099
+Residual: 24.435639645898394
+Displacement Increment Norm:  0.003602956984280101
+Displacement Correction Norm:  0.003602956984279757
+Residual: 22.077128898203814
+Displacement Increment Norm:  0.003602956984279737
+Displacement Correction Norm:  2.3066146753089205e-15
+Residual: 19.7820635221542
+Displacement Increment Norm:  2.479936340289854e-15
+Displacement Correction Norm:  0.00360295698428013
+Residual: 19.782063522154136
+Displacement Increment Norm:  0.0036029569842801253
+Displacement Correction Norm:  0.003602956984279732
+Residual: 22.077128898203668
+Displacement Increment Norm:  0.003602956984279709
+Displacement Correction Norm:  2.6600095017930454e-15
+Residual: 24.435639645898323
+Displacement Increment Norm:  2.7497601057446527e-15
+Displacement Correction Norm:  0.00360295698428016
+Residual: 24.435639645898394
+Displacement Increment Norm:  0.003602956984280154
+Displacement Correction Norm:  0.0036029569842797025
+Residual: 22.077128898203817
+Displacement Increment Norm:  0.0036029569842796778
+Displacement Correction Norm:  2.895477586781779e-15
+Residual: 19.78206352215421
+Displacement Increment Norm:  3.0929148168961348e-15
+Displacement Correction Norm:  0.0036029569842801774
+Residual: 19.782063522154132
+Displacement Increment Norm:  0.0036029569842801756
+Displacement Correction Norm:  0.0036029569842796765
+Residual: 22.077128898203657
+Displacement Increment Norm:  0.0036029569842796513
+Displacement Correction Norm:  3.2176579916045785e-15
+Residual: 24.435639645898316
+Displacement Increment Norm:  3.4250125601507887e-15
+Displacement Correction Norm:  0.0036029569842802043
+Residual: 24.435639645898398
+Displacement Increment Norm:  0.0036029569842802064
+Displacement Correction Norm:  0.0036029569842796535
+Residual: 22.07712889820383
+Displacement Increment Norm:  0.003602956984279626
+Displacement Correction Norm:  3.5023752938338817e-15
+Residual: 19.782063522154218
+Displacement Increment Norm:  3.706914002809715e-15
+Displacement Correction Norm:  0.003602956984280231
+Residual: 19.782063522154132
+Displacement Increment Norm:  0.0036029569842802333
+Displacement Correction Norm:  0.0036029569842796283
+Residual: 22.077128898203654
+Displacement Increment Norm:  0.003602956984279599
+Displacement Correction Norm:  3.9285723470482066e-15
+Residual: 24.43563964589831
+Displacement Increment Norm:  4.009144785982683e-15
+Displacement Correction Norm:  0.0036029569842802576
+Residual: 24.4356396458984
+Displacement Increment Norm:  0.0036029569842802606
+Displacement Correction Norm:  0.003602956984279602
+Residual: 22.077128898203842
+Load multiplier:  ParameterCF, val = 0.574456
+
+Increment: 6
+Initial Residual: 22.103326296108214
+Displacement Increment Norm:  0.003257322098359632
+Displacement Correction Norm:  0.003257322098359632
+Residual: 24.184283004990725
+Displacement Increment Norm:  0.0032573220983596112
+Displacement Correction Norm:  9.397047756594664e-17
+Residual: 26.31242026066876
+Displacement Increment Norm:  2.6845833480430686e-16
+Displacement Correction Norm:  0.0032573220983596546
+Residual: 26.312420260668773
+Displacement Increment Norm:  0.0032573220983596594
+Displacement Correction Norm:  0.0032573220983596173
+Residual: 24.184283004990753
+Displacement Increment Norm:  0.003257322098359597
+Displacement Correction Norm:  3.5780823785459215e-16
+Residual: 22.103326296108225
+Displacement Increment Norm:  5.120401170612336e-16
+Displacement Correction Norm:  0.003257322098359683
+Residual: 22.1033262961082
+Displacement Increment Norm:  0.003257322098359683
+Displacement Correction Norm:  0.0032573220983595965
+Residual: 24.184283004990707
+Displacement Increment Norm:  0.0032573220983595714
+Displacement Correction Norm:  6.485919417743057e-16
+Residual: 26.312420260668752
+Displacement Increment Norm:  8.306871045597012e-16
+Displacement Correction Norm:  0.0032573220983597097
+Residual: 26.312420260668784
+Displacement Increment Norm:  0.0032573220983597123
+Displacement Correction Norm:  0.0032573220983595735
+Residual: 24.184283004990753
+Displacement Increment Norm:  0.0032573220983595497
+Displacement Correction Norm:  9.638905083924712e-16
+Residual: 22.10332629610822
+Displacement Increment Norm:  1.067237170255534e-15
+Displacement Correction Norm:  0.0032573220983597322
+Residual: 22.103326296108193
+Displacement Increment Norm:  0.003257322098359733
+Displacement Correction Norm:  0.00325732209835955
+Residual: 24.184283004990696
+Displacement Increment Norm:  0.0032573220983595284
+Displacement Correction Norm:  1.237337380910421e-15
+Residual: 26.312420260668752
+Displacement Increment Norm:  1.3474717493642502e-15
+Displacement Correction Norm:  0.0032573220983597587
+Residual: 26.31242026066879
+Displacement Increment Norm:  0.0032573220983597613
+Displacement Correction Norm:  0.0032573220983595306
+Residual: 24.18428300499077
+Displacement Increment Norm:  0.0032573220983595063
+Displacement Correction Norm:  1.4851762998697337e-15
+Residual: 22.10332629610822
+Displacement Increment Norm:  1.622233510579661e-15
+Displacement Correction Norm:  0.003257322098359783
+Residual: 22.103326296108182
+Displacement Increment Norm:  0.0032573220983597804
+Displacement Correction Norm:  0.0032573220983595046
+Residual: 24.18428300499069
+Displacement Increment Norm:  0.003257322098359477
+Displacement Correction Norm:  1.7852325972648646e-15
+Residual: 26.312420260668745
+Displacement Increment Norm:  1.936075741131417e-15
+Displacement Correction Norm:  0.0032573220983598003
+Residual: 26.312420260668794
+Displacement Increment Norm:  0.0032573220983598016
+Displacement Correction Norm:  0.0032573220983594777
+Residual: 24.18428300499079
+Displacement Increment Norm:  0.0032573220983594586
+Displacement Correction Norm:  2.0520758648319517e-15
+Residual: 22.10332629610823
+Displacement Increment Norm:  2.230395760436294e-15
+Displacement Correction Norm:  0.0032573220983598272
+Residual: 22.103326296108172
+Displacement Increment Norm:  0.0032573220983598277
+Displacement Correction Norm:  0.00325732209835946
+Residual: 24.184283004990668
+Displacement Increment Norm:  0.003257322098359436
+Displacement Correction Norm:  2.457068664048005e-15
+Residual: 26.312420260668745
+Displacement Increment Norm:  2.5716863208487753e-15
+Displacement Correction Norm:  0.003257322098359854
+Residual: 26.31242026066881
+Displacement Increment Norm:  0.003257322098359856
+Displacement Correction Norm:  0.0032573220983594373
+Residual: 24.1842830049908
+Displacement Increment Norm:  0.0032573220983594113
+Displacement Correction Norm:  2.709545691188131e-15
+Residual: 22.103326296108232
+Displacement Increment Norm:  2.8124952459552927e-15
+Displacement Correction Norm:  0.003257322098359873
+Residual: 22.10332629610817
+Displacement Increment Norm:  0.0032573220983598754
+Displacement Correction Norm:  0.0032573220983594135
+Residual: 24.184283004990665
+Displacement Increment Norm:  0.0032573220983593857
+Displacement Correction Norm:  3.026388052601936e-15
+Residual: 26.312420260668745
+Displacement Increment Norm:  3.239534358795275e-15
+Displacement Correction Norm:  0.003257322098359905
+Residual: 26.31242026066881
+Displacement Increment Norm:  0.003257322098359905
+Displacement Correction Norm:  0.003257322098359386
+Residual: 24.1842830049908
+Displacement Increment Norm:  0.00325732209835936
+Displacement Correction Norm:  3.541285284695234e-15
+Residual: 22.103326296108232
+Displacement Increment Norm:  3.668629486599459e-15
+Displacement Correction Norm:  0.003257322098359927
+Residual: 22.10332629610816
+Displacement Increment Norm:  0.003257322098359926
+Displacement Correction Norm:  0.0032573220983593597
+Residual: 24.18428300499066
+Displacement Increment Norm:  0.0032573220983593324
+Displacement Correction Norm:  3.836450034734949e-15
+Residual: 26.312420260668745
+Displacement Increment Norm:  3.911634347360667e-15
+Displacement Correction Norm:  0.0032573220983599526
+Residual: 26.31242026066881
+Displacement Increment Norm:  0.003257322098359952
+Displacement Correction Norm:  0.003257322098359332
+Residual: 24.184283004990796
+Load multiplier:  ParameterCF, val = 0.620484
+
+Increment: 7
+Initial Residual: 24.204592000106803
+Displacement Increment Norm:  0.002995416810337491
+Displacement Correction Norm:  0.002995416810337491
+Residual: 26.12201118870949
+Displacement Increment Norm:  0.0029954168103374693
+Displacement Correction Norm:  1.9360239623825496e-16
+Residual: 28.076296857149305
+Displacement Increment Norm:  3.823156373786347e-16
+Displacement Correction Norm:  0.0029954168103375157
+Residual: 28.076296857149316
+Displacement Increment Norm:  0.002995416810337515
+Displacement Correction Norm:  0.002995416810337468
+Residual: 26.122011188709504
+Displacement Increment Norm:  0.0029954168103374507
+Displacement Correction Norm:  4.227034935476011e-16
+Residual: 24.204592000106814
+Displacement Increment Norm:  6.555467757985354e-16
+Displacement Correction Norm:  0.0029954168103375396
+Residual: 24.2045920001068
+Displacement Increment Norm:  0.0029954168103375357
+Displacement Correction Norm:  0.0029954168103374468
+Residual: 26.122011188709475
+Displacement Increment Norm:  0.0029954168103374246
+Displacement Correction Norm:  7.988755823493651e-16
+Residual: 28.076296857149295
+Displacement Increment Norm:  8.745114663590914e-16
+Displacement Correction Norm:  0.002995416810337557
+Residual: 28.07629685714932
+Displacement Increment Norm:  0.002995416810337559
+Displacement Correction Norm:  0.002995416810337426
+Residual: 26.122011188709514
+Displacement Increment Norm:  0.002995416810337405
+Displacement Correction Norm:  1.0230950829414234e-15
+Residual: 24.204592000106818
+Displacement Increment Norm:  1.1884361469805918e-15
+Displacement Correction Norm:  0.002995416810337579
+Residual: 24.204592000106796
+Displacement Increment Norm:  0.0029954168103375808
+Displacement Correction Norm:  0.0029954168103374077
+Residual: 26.12201118870947
+Displacement Increment Norm:  0.002995416810337378
+Displacement Correction Norm:  1.3152559084615208e-15
+Residual: 28.076296857149295
+Displacement Increment Norm:  1.395470257078833e-15
+Displacement Correction Norm:  0.0029954168103376033
+Residual: 28.07629685714931
+Displacement Increment Norm:  0.002995416810337605
+Displacement Correction Norm:  0.0029954168103373795
+Residual: 26.122011188709507
+Displacement Increment Norm:  0.0029954168103373574
+Displacement Correction Norm:  1.4822221661032883e-15
+Residual: 24.204592000106814
+Displacement Increment Norm:  1.668198571608779e-15
+Displacement Correction Norm:  0.002995416810337626
+Residual: 24.2045920001068
+Displacement Increment Norm:  0.002995416810337627
+Displacement Correction Norm:  0.0029954168103373587
+Residual: 26.122011188709486
+Displacement Increment Norm:  0.002995416810337334
+Displacement Correction Norm:  1.7152949113877119e-15
+Residual: 28.076296857149305
+Displacement Increment Norm:  1.78026832520271e-15
+Displacement Correction Norm:  0.0029954168103376528
+Residual: 28.076296857149313
+Displacement Increment Norm:  0.002995416810337653
+Displacement Correction Norm:  0.0029954168103373344
+Residual: 26.1220111887095
+Displacement Increment Norm:  0.0029954168103373162
+Displacement Correction Norm:  1.8337925046932582e-15
+Residual: 24.20459200010681
+Displacement Increment Norm:  1.924033887702088e-15
+Displacement Correction Norm:  0.002995416810337673
+Residual: 24.204592000106796
+Displacement Increment Norm:  0.0029954168103376757
+Displacement Correction Norm:  0.002995416810337318
+Residual: 26.12201118870948
+Displacement Increment Norm:  0.002995416810337296
+Displacement Correction Norm:  2.1170036730580706e-15
+Residual: 28.07629685714931
+Displacement Increment Norm:  2.171761649025605e-15
+Displacement Correction Norm:  0.002995416810337701
+Residual: 28.07629685714932
+Displacement Increment Norm:  0.0029954168103377026
+Displacement Correction Norm:  0.0029954168103372984
+Residual: 26.122011188709507
+Displacement Increment Norm:  0.0029954168103372794
+Displacement Correction Norm:  2.319791548630325e-15
+Residual: 24.20459200010681
+Displacement Increment Norm:  2.410007759669572e-15
+Displacement Correction Norm:  0.0029954168103377287
+Residual: 24.204592000106793
+Displacement Increment Norm:  0.0029954168103377226
+Displacement Correction Norm:  0.0029954168103372737
+Residual: 26.12201118870947
+Displacement Increment Norm:  0.002995416810337251
+Displacement Correction Norm:  2.490582326678846e-15
+Residual: 28.0762968571493
+Displacement Increment Norm:  2.530979812269555e-15
+Displacement Correction Norm:  0.0029954168103377434
+Residual: 28.076296857149316
+Displacement Increment Norm:  0.0029954168103377464
+Displacement Correction Norm:  0.0029954168103372538
+Residual: 26.122011188709514
+Displacement Increment Norm:  0.0029954168103372356
+Displacement Correction Norm:  2.6980876415746165e-15
+Residual: 24.204592000106814
+Displacement Increment Norm:  2.8319817140648228e-15
+Displacement Correction Norm:  0.0029954168103377673
+Residual: 24.204592000106786
+Displacement Increment Norm:  0.002995416810337769
+Displacement Correction Norm:  0.0029954168103372377
+Residual: 26.122011188709468
+Displacement Increment Norm:  0.002995416810337215
+Displacement Correction Norm:  2.9943747568443056e-15
+Residual: 28.076296857149302
+Displacement Increment Norm:  3.172196231348847e-15
+Displacement Correction Norm:  0.002995416810337794
+Residual: 28.07629685714933
+Displacement Increment Norm:  0.0029954168103377998
+Displacement Correction Norm:  0.0029954168103372204
+Residual: 26.122011188709518
+Load multiplier:  ParameterCF, val = 0.663325
+
+Increment: 8
+Initial Residual: 26.138367961365336
+Displacement Increment Norm:  0.0027880659873223287
+Displacement Correction Norm:  0.0027880659873223287
+Residual: 27.925604606178972
+Displacement Increment Norm:  0.0027880659873223083
+Displacement Correction Norm:  1.6664843914190806e-16
+Residual: 29.742680316611988
+Displacement Increment Norm:  4.312220207509995e-16
+Displacement Correction Norm:  0.002788065987322349
+Residual: 29.742680316612
+Displacement Increment Norm:  0.0027880659873223495
+Displacement Correction Norm:  0.0027880659873223096
+Residual: 27.925604606178993
+Displacement Increment Norm:  0.0027880659873222914
+Displacement Correction Norm:  6.16514567176966e-16
+Residual: 26.13836796136535
+Displacement Increment Norm:  6.21694253828011e-16
+Displacement Correction Norm:  0.002788065987322368
+Residual: 26.138367961365336
+Displacement Increment Norm:  0.002788065987322366
+Displacement Correction Norm:  0.002788065987322289
+Residual: 27.92560460617896
+Displacement Increment Norm:  0.002788065987322265
+Displacement Correction Norm:  8.184152781323111e-16
+Residual: 29.74268031661198
+Displacement Increment Norm:  9.832148283685059e-16
+Displacement Correction Norm:  0.0027880659873223863
+Residual: 29.742680316612
+Displacement Increment Norm:  0.002788065987322391
+Displacement Correction Norm:  0.0027880659873222697
+Residual: 27.925604606178997
+Displacement Increment Norm:  0.0027880659873222476
+Displacement Correction Norm:  1.0501513404297709e-15
+Residual: 26.13836796136535
+Displacement Increment Norm:  1.1841427546508317e-15
+Displacement Correction Norm:  0.0027880659873224076
+Residual: 26.138367961365326
+Displacement Increment Norm:  0.0027880659873224098
+Displacement Correction Norm:  0.0027880659873222493
+Residual: 27.925604606178954
+Displacement Increment Norm:  0.0027880659873222263
+Displacement Correction Norm:  1.424067770656033e-15
+Residual: 29.74268031661198
+Displacement Increment Norm:  1.468945348394484e-15
+Displacement Correction Norm:  0.002788065987322428
+Residual: 29.742680316612013
+Displacement Increment Norm:  0.0027880659873224314
+Displacement Correction Norm:  0.0027880659873222293
+Residual: 27.92560460617901
+Displacement Increment Norm:  0.002788065987322215
+Displacement Correction Norm:  1.5992773604528433e-15
+Residual: 26.138367961365354
+Displacement Increment Norm:  1.662977127673131e-15
+Displacement Correction Norm:  0.0027880659873224505
+Residual: 26.138367961365315
+Displacement Increment Norm:  0.002788065987322454
+Displacement Correction Norm:  0.0027880659873222185
+Residual: 27.92560460617894
+Displacement Increment Norm:  0.002788065987322191
+Displacement Correction Norm:  1.758003088814572e-15
+Residual: 29.742680316611974
+Displacement Increment Norm:  1.9953018964873826e-15
+Displacement Correction Norm:  0.0027880659873224726
+Residual: 29.742680316612017
+Displacement Increment Norm:  0.0027880659873224744
+Displacement Correction Norm:  0.0027880659873221933
+Residual: 27.92560460617902
+Displacement Increment Norm:  0.0027880659873221756
+Displacement Correction Norm:  2.131015581564019e-15
+Residual: 26.138367961365358
+Displacement Increment Norm:  2.243385599089639e-15
+Displacement Correction Norm:  0.0027880659873224965
+Residual: 26.138367961365308
+Displacement Increment Norm:  0.002788065987322497
+Displacement Correction Norm:  0.0027880659873221764
+Residual: 27.925604606178933
+Displacement Increment Norm:  0.0027880659873221547
+Displacement Correction Norm:  2.2776582211424804e-15
+Residual: 29.74268031661198
+Displacement Increment Norm:  2.51327059341318e-15
+Displacement Correction Norm:  0.002788065987322524
+Residual: 29.742680316612024
+Displacement Increment Norm:  0.0027880659873225216
+Displacement Correction Norm:  0.002788065987322152
+Residual: 27.925604606179025
+Displacement Increment Norm:  0.0027880659873221335
+Displacement Correction Norm:  2.715887189274915e-15
+Residual: 26.138367961365358
+Displacement Increment Norm:  2.7853677996759696e-15
+Displacement Correction Norm:  0.002788065987322539
+Residual: 26.138367961365304
+Displacement Increment Norm:  0.002788065987322536
+Displacement Correction Norm:  0.0027880659873221305
+Residual: 27.925604606178922
+Displacement Increment Norm:  0.00278806598732211
+Displacement Correction Norm:  2.809802062037629e-15
+Residual: 29.742680316611967
+Displacement Increment Norm:  2.9678886090455206e-15
+Displacement Correction Norm:  0.002788065987322555
+Residual: 29.742680316612027
+Displacement Increment Norm:  0.0027880659873225607
+Displacement Correction Norm:  0.0027880659873221157
+Residual: 27.925604606179043
+Displacement Increment Norm:  0.0027880659873220953
+Displacement Correction Norm:  3.0604439254525618e-15
+Residual: 26.13836796136537
+Displacement Increment Norm:  3.1814625711475518e-15
+Displacement Correction Norm:  0.002788065987322574
+Residual: 26.13836796136529
+Displacement Increment Norm:  0.002788065987322579
+Displacement Correction Norm:  0.0027880659873221005
+Residual: 27.925604606178904
+Displacement Increment Norm:  0.0027880659873220784
+Displacement Correction Norm:  3.2891923501615714e-15
+Residual: 29.742680316611967
+Displacement Increment Norm:  3.4100844362937563e-15
+Displacement Correction Norm:  0.0027880659873225975
+Residual: 29.74268031661204
+Displacement Increment Norm:  0.002788065987322605
+Displacement Correction Norm:  0.0027880659873220854
+Residual: 27.925604606179057
+Load multiplier:  ParameterCF, val = 0.703562
+
+Increment: 9
+Initial Residual: 27.939156641338375
+Displacement Increment Norm:  0.0026186088251179507
+Displacement Correction Norm:  0.0026186088251179507
+Residual: 29.619576578645162
+Displacement Increment Norm:  0.002618608825117925
+Displacement Correction Norm:  1.888296593308471e-16
+Residual: 31.324792288571278
+Displacement Increment Norm:  0.00014413027114064362
+Displacement Correction Norm:  0.0027536505395320274
+Residual: 31.25236558519514
+Displacement Increment Norm:  0.0026186088251179654
+Displacement Correction Norm:  0.002484588524127141
+Residual: 29.566015999465325
+Displacement Increment Norm:  0.00248458852412713
+Displacement Correction Norm:  0.00014413027114066967
+Residual: 27.93915664133838
+Displacement Increment Norm:  0.00014413027114069688
+Displacement Correction Norm:  0.0026186088251179828
+Residual: 28.002945947734734
+Displacement Increment Norm:  0.0026186088251179815
+Displacement Correction Norm:  0.0024845885241271287
+Residual: 29.70269461268783
+Displacement Increment Norm:  0.00248458852412711
+Displacement Correction Norm:  0.00014413027114072892
+Residual: 31.32479228857127
+Displacement Increment Norm:  0.0001531884321379487
+Displacement Correction Norm:  0.0026265927310540945
+Residual: 31.23872631462691
+Displacement Increment Norm:  0.0026186088251179997
+Displacement Correction Norm:  0.0024769239399881206
+Residual: 29.553441555183674
+Displacement Increment Norm:  0.002476923939988105
+Displacement Correction Norm:  0.00015318843213797169
+Residual: 27.939156641338386
+Displacement Increment Norm:  0.000153188432138007
+Displacement Correction Norm:  0.0026186088251180174
+Residual: 28.017951714426847
+Displacement Increment Norm:  0.0026186088251180153
+Displacement Correction Norm:  0.0024769239399881028
+Residual: 29.7186749765251
+Displacement Increment Norm:  0.002476923939988083
+Displacement Correction Norm:  0.00015318843213803086
+Residual: 31.324792288571267
+Displacement Increment Norm:  0.00015867748963795735
+Displacement Correction Norm:  0.0026220452201767704
+Residual: 31.238793797049055
+Displacement Increment Norm:  0.002618608825118035
+Displacement Correction Norm:  0.002473760151852733
+Residual: 29.554008731305444
+Displacement Increment Norm:  0.002473760151852719
+Displacement Correction Norm:  0.0001586774896379882
+Residual: 27.939156641338386
+Displacement Increment Norm:  0.0001586774896380381
+Displacement Correction Norm:  0.002618608825118055
+Residual: 28.018727553999565
+Displacement Increment Norm:  0.002618608825118045
+Displacement Correction Norm:  0.00247376015185271
+Residual: 29.719899495685937
+Displacement Increment Norm:  0.0024737601518526964
+Displacement Correction Norm:  0.00015867748963808938
+Residual: 31.32479228857126
+Displacement Increment Norm:  0.00016830749564117188
+Displacement Correction Norm:  0.0026246020058298927
+Residual: 31.23933895340592
+Displacement Increment Norm:  0.002618608825118062
+Displacement Correction Norm:  0.002468236262929634
+Residual: 29.555360955066934
+Displacement Increment Norm:  0.00246823626292962
+Displacement Correction Norm:  0.0001683074956412104
+Residual: 27.939156641338396
+Displacement Increment Norm:  0.00016830749564123639
+Displacement Correction Norm:  0.002618608825118076
+Residual: 28.019452950268104
+Displacement Increment Norm:  0.002618608825118076
+Displacement Correction Norm:  0.002468236262929622
+Residual: 29.72135502738206
+Displacement Increment Norm:  0.002468236262929602
+Displacement Correction Norm:  0.00016830749564127482
+Residual: 31.324792288571256
+Displacement Increment Norm:  0.00018515808017775375
+Displacement Correction Norm:  0.002627240207982624
+Residual: 31.240518944341538
+Displacement Increment Norm:  0.0026186088251180946
+Displacement Correction Norm:  0.002460605398314275
+Residual: 29.55765876218227
+Displacement Increment Norm:  0.0024606053983142633
+Displacement Correction Norm:  0.00018515808017785244
+Residual: 27.9391566413384
+Displacement Increment Norm:  0.00018515808017788516
+Displacement Correction Norm:  0.0026186088251181176
+Residual: 28.020212368503454
+Displacement Increment Norm:  0.002618608825118105
+Displacement Correction Norm:  0.002460605398314253
+Residual: 29.72311569904426
+Displacement Increment Norm:  0.0024606053983142347
+Displacement Correction Norm:  0.00018515808017790226
+Residual: 31.32479228857125
+Displacement Increment Norm:  0.0001948965494813958
+Displacement Correction Norm:  0.002624876199543315
+Residual: 31.241316351365185
+Displacement Increment Norm:  0.002618608825118127
+Displacement Correction Norm:  0.002454834632388095
+Residual: 29.55925880549192
+Displacement Increment Norm:  0.0024548346323880798
+Displacement Correction Norm:  0.0001948965494815123
+Residual: 27.939156641338403
+Displacement Increment Norm:  0.00019489654948154966
+Displacement Correction Norm:  0.0026186088251181445
+Residual: 28.02063227941175
+Displacement Increment Norm:  0.002618608825118138
+Displacement Correction Norm:  0.0024548346323880798
+Residual: 29.724264586274877
+Displacement Increment Norm:  0.0024548346323880602
+Displacement Correction Norm:  0.0001948965494815731
+Residual: 31.324792288571246
+Displacement Increment Norm:  0.00020298596780029792
+Displacement Correction Norm:  0.0026249992108624263
+Residual: 31.24223093839897
+Displacement Increment Norm:  0.002618608825118154
+Displacement Correction Norm:  0.0024488082077412277
+Residual: 29.56098070474606
+Load multiplier:  ParameterCF, val = 0.74162
+
+Increment: 10
+Initial Residual: 29.595165979508185
+Displacement Increment Norm:  0.0026510863224667746
+Displacement Correction Norm:  0.0026510863224667746
+Residual: 31.221775106098715
+Displacement Increment Norm:  0.002651086322466746
+Displacement Correction Norm:  1.2721317470403642e-16
+Residual: 32.9320721683001
+Displacement Increment Norm:  0.0005215831300047499
+Displacement Correction Norm:  0.00313519820225172
+Residual: 32.66007182857871
+Displacement Increment Norm:  0.00261178299737005
+Displacement Correction Norm:  0.0021473544594432853
+Residual: 31.10171892536634
+Displacement Increment Norm:  0.0021438049296846123
+Displacement Correction Norm:  0.0005267336848702161
+Residual: 29.602683196271254
+Displacement Increment Norm:  0.0005267336848702602
+Displacement Correction Norm:  0.0026117829973700646
+Residual: 29.89819807075851
+Displacement Increment Norm:  0.0026105237429006724
+Displacement Correction Norm:  0.002142630249105867
+Residual: 31.64922338051146
+Displacement Increment Norm:  0.0019428533793675827
+Displacement Correction Norm:  0.0009144448907588642
+Residual: 32.61140218735122
+Displacement Increment Norm:  0.0008886153419882224
+Displacement Correction Norm:  0.0028130462457186074
+Residual: 32.79235612007677
+Displacement Increment Norm:  0.002359083293468996
+Displacement Correction Norm:  0.001508431527448535
+Residual: 31.453221926478975
+Displacement Increment Norm:  0.0015074394615029482
+Displacement Correction Norm:  0.0008878569847420056
+Residual: 29.893980102132875
+Displacement Increment Norm:  0.0008739554757827191
+Displacement Correction Norm:  0.002343238295591986
+Residual: 30.55993497494464
+Displacement Increment Norm:  0.0022093205779329505
+Displacement Correction Norm:  0.0014231544803624558
+Residual: 31.58427976968237
+Displacement Increment Norm:  0.0012016440171961982
+Displacement Correction Norm:  0.0011723846787519887
+Residual: 32.71908592089291
+Displacement Increment Norm:  0.0008687308423577899
+Displacement Correction Norm:  0.0019931956814635537
+Residual: 33.80863253511472
+Displacement Increment Norm:  0.0018537188282733235
+Displacement Correction Norm:  0.0011276821274783706
+Residual: 31.297981914580827
+Displacement Increment Norm:  0.0012816370399561978
+Displacement Correction Norm:  0.0011867523118860993
+Residual: 30.004482675494312
+Displacement Increment Norm:  0.0007288388875040536
+Displacement Correction Norm:  0.0018296454280393607
+Residual: 30.96392947767815
+Displacement Increment Norm:  0.00168422426221177
+Displacement Correction Norm:  0.0012234435015105512
+Residual: 31.672659810084607
+Displacement Increment Norm:  0.001350339519923774
+Displacement Correction Norm:  0.0009637336215584699
+Residual: 33.042935888541436
+Displacement Increment Norm:  0.0015546234643338732
+Displacement Correction Norm:  0.002691363890662861
+Residual: 33.64660399675635
+Displacement Increment Norm:  0.0015253751440336852
+Displacement Correction Norm:  0.0015637440412435398
+Residual: 31.43154559474587
+Displacement Increment Norm:  0.0016748379912225847
+Displacement Correction Norm:  0.0017151847164761438
+Residual: 30.95257527788901
+Displacement Increment Norm:  0.0032292942338719636
+Displacement Correction Norm:  0.0026421889884512702
+Residual: 30.51645707433358
+Displacement Increment Norm:  0.004050532080266855
+Displacement Correction Norm:  0.00705830623026418
+Residual: 33.51722882051482
+Displacement Increment Norm:  0.0098437274232954
+Displacement Correction Norm:  0.013171659131905733
+Residual: 38.856027777780845
+Displacement Increment Norm:  0.05523338926611418
+Displacement Correction Norm:  0.05789294447807283
+Residual: 50.693759196254085
+Displacement Increment Norm:  0.1467168960716131
+Displacement Correction Norm:  0.1869294896376573
+Residual: 82.80923273044246
+Displacement Increment Norm:  0.19618061045841964
+Displacement Correction Norm:  0.3205539266534341
+Residual: 77.32958918676637
+Displacement Increment Norm:  0.349540916963054
+Displacement Correction Norm:  0.4785389486071425
+Residual: 101.69067691022144
+Displacement Increment Norm:  0.6847037753956066
+Displacement Correction Norm:  0.7495936752290454
+Residual: 122.3786342188854
+Displacement Increment Norm:  0.8500220426281965
+Displacement Correction Norm:  1.4953295576174626
+Residual: 187.03103712136274
+Displacement Increment Norm:  8.244932496349557
+Displacement Correction Norm:  8.973130653529317
+Residual: 249.37926250344708
+Displacement Increment Norm:  8.456733180770428
+Displacement Correction Norm:  16.629553113701235
+Residual: 269.77446553187207
+Displacement Increment Norm:  12.462559458757678
+Displacement Correction Norm:  20.76741917592395
+Residual: 230.52909917764083
+Displacement Increment Norm:  8.553708471291312
+Displacement Correction Norm:  20.898183493376052
+Residual: 256.8377361255552
+Displacement Increment Norm:  12.368079252580088
+Displacement Correction Norm:  20.77506488759834
+Residual: 283.5332746340738
+Displacement Increment Norm:  9.50128732604116
+Displacement Correction Norm:  21.68137955589964
+Residual: 229.98323860726862
+Displacement Increment Norm:  11.612568739531245
+Displacement Correction Norm:  20.935636333911535
+Residual: 267.15387248724545
+Displacement Increment Norm:  9.39237910470723
+Displacement Correction Norm:  20.81517776557541
+Residual: 278.273260975313
+Load multiplier:  ParameterCF, val = 0.777817
+
+Increment: 11
+Initial Residual: 278.3721190282563
+Displacement Increment Norm:  20.232696297956526
+Displacement Correction Norm:  20.232696297956526
+Residual: 356.46929150561795
+Displacement Increment Norm:  18.85710301552291
+Displacement Correction Norm:  38.973971099930814
+Residual: 397.6619171232453
+Displacement Increment Norm:  19.498634440078106
+Displacement Correction Norm:  38.20847166146897
+Residual: 402.7839392857371
+Displacement Increment Norm:  18.36426403475659
+Displacement Correction Norm:  37.72525870377413
+Residual: 345.19345354566735
+Displacement Increment Norm:  19.281575485611558
+Displacement Correction Norm:  37.5063339967397
+Residual: 403.67127523467246
+Displacement Increment Norm:  18.33210035041082
+Displacement Correction Norm:  37.469203903741416
+Residual: 401.7676310886781
+Displacement Increment Norm:  19.065553375118355
+Displacement Correction Norm:  37.25804175118009
+Residual: 358.4146177763803
+Displacement Increment Norm:  18.20727678172866
+Displacement Correction Norm:  37.129574035344824
+Residual: 394.11705764339547
+Displacement Increment Norm:  18.851891396232993
+Displacement Correction Norm:  36.919585797282764
+Residual: 402.3756015957337
+Displacement Increment Norm:  18.14758360918779
+Displacement Correction Norm:  36.855536342769135
+Residual: 350.4732683230654
+Displacement Increment Norm:  18.605605643513417
+Displacement Correction Norm:  36.61211054387333
+Residual: 402.2089966639041
+Displacement Increment Norm:  18.071797667168035
+Displacement Correction Norm:  36.53152129738092
+Residual: 401.309893236258
+Displacement Increment Norm:  18.440796854411527
+Displacement Correction Norm:  36.37301334984656
+Residual: 361.8099669059554
+Displacement Increment Norm:  17.979682430966538
+Displacement Correction Norm:  36.28095794385467
+Residual: 391.9519873940939
+Displacement Increment Norm:  18.331683882862382
+Displacement Correction Norm:  36.17562249280752
+Residual: 399.99231517839195
+Displacement Increment Norm:  17.94262378380107
+Displacement Correction Norm:  36.1336710642629
+Residual: 353.83096728982804
+Displacement Increment Norm:  18.162744963398204
+Displacement Correction Norm:  35.96773668630486
+Residual: 400.36130398874565
+Displacement Increment Norm:  17.896025987532067
+Displacement Correction Norm:  35.919465774117555
+Residual: 399.56777111173955
+Displacement Increment Norm:  18.03037094401638
+Displacement Correction Norm:  35.79069254492842
+Residual: 363.7849190049067
+Displacement Increment Norm:  17.73520842015695
+Displacement Correction Norm:  35.62595707290565
+Residual: 391.3826478844678
+Displacement Increment Norm:  17.81630965187878
+Displacement Correction Norm:  35.41575926739321
+Residual: 400.4814256866131
+Displacement Increment Norm:  17.706559204895623
+Displacement Correction Norm:  35.38532074589488
+Residual: 356.87123242197447
+Displacement Increment Norm:  17.684999866931914
+Displacement Correction Norm:  35.25608765511586
+Residual: 398.6427066695206
+Displacement Increment Norm:  17.614283228560115
+Displacement Correction Norm:  35.15988938438112
+Residual: 399.5144413784688
+Displacement Increment Norm:  17.50191564497494
+Displacement Correction Norm:  34.98083062118494
+Residual: 366.46662702298545
+Displacement Increment Norm:  17.530914233137878
+Displacement Correction Norm:  34.896003420781255
+Residual: 390.5003836140766
+Displacement Increment Norm:  17.369051215914737
+Displacement Correction Norm:  34.765827384109876
+Residual: 399.5816579913128
+Displacement Increment Norm:  17.479911664935987
+Displacement Correction Norm:  34.711215968916875
+Residual: 360.0149203408985
+Displacement Increment Norm:  17.2498755844434
+Displacement Correction Norm:  34.595743939234886
+Residual: 398.1740060815413
+Displacement Increment Norm:  17.421146630172053
+Displacement Correction Norm:  34.53415342464817
+Residual: 399.39167670623215
+Displacement Increment Norm:  17.062305160219235
+Displacement Correction Norm:  34.34904471244157
+Residual: 368.5311490126584
+Displacement Increment Norm:  17.219543299288368
+Displacement Correction Norm:  34.1453843684146
+Residual: 392.21972729443763
+Displacement Increment Norm:  16.95287685931311
+Displacement Correction Norm:  34.040330994428906
+Residual: 400.4296995844683
+Displacement Increment Norm:  17.295743408262958
+Displacement Correction Norm:  34.11311403944483
+Residual: 363.46635915864573
+Displacement Increment Norm:  16.8279058404707
+Displacement Correction Norm:  33.98883063525102
+Residual: 396.9428957801514
+Displacement Increment Norm:  17.226723298301362
+Displacement Correction Norm:  33.91732419741667
+Residual: 400.2075953818901
+Displacement Increment Norm:  16.717635578020243
+Displacement Correction Norm:  33.81147550617526
+Residual: 370.52382669940613
+Displacement Increment Norm:  17.14685768459213
+Displacement Correction Norm:  33.730754192727
+Residual: 392.0197499749281
+Displacement Increment Norm:  16.639107657991595
+Displacement Correction Norm:  33.65413278504317
+Residual: 399.9158697437645
+Displacement Increment Norm:  17.115886566429737
+Displacement Correction Norm:  33.62133294109817
+Residual: 366.06572288677506
+Load multiplier:  ParameterCF, val = 0.812404
+
+Increment: 12
+Initial Residual: 366.0900345109753
+Displacement Increment Norm:  33.45402096218064
+Displacement Correction Norm:  33.45402096218064
+Residual: 726.8692357520164
+Displacement Increment Norm:  34.5784553827262
+Displacement Correction Norm:  67.95432114025353
+Residual: 724.5941379357245
+Displacement Increment Norm:  33.089192306798395
+Displacement Correction Norm:  67.58210068960257
+Residual: 721.3773959036128
+Displacement Increment Norm:  34.3803035986121
+Displacement Correction Norm:  67.38903865555895
+Residual: 723.5190621177702
+Displacement Increment Norm:  33.21142931606025
+Displacement Correction Norm:  67.50858798365654
+Residual: 718.337557467183
+Displacement Increment Norm:  34.50371258095548
+Displacement Correction Norm:  67.63347950935211
+Residual: 724.0698958968378
+Displacement Increment Norm:  33.28058076304713
+Displacement Correction Norm:  67.70087688319182
+Residual: 722.4651198572292
+Displacement Increment Norm:  34.549366856193565
+Displacement Correction Norm:  67.74770911898537
+Residual: 724.4170787616431
+Displacement Increment Norm:  33.30490864341572
+Displacement Correction Norm:  67.77100903459053
+Residual: 723.7230188511105
+Displacement Increment Norm:  34.5247052810966
+Displacement Correction Norm:  67.74706893882222
+Residual: 726.1239143114177
+Displacement Increment Norm:  33.308027012660425
+Displacement Correction Norm:  67.74959128197891
+Residual: 720.422491904155
+Displacement Increment Norm:  34.50144195973189
+Displacement Correction Norm:  67.72643875535836
+Residual: 726.2124286080234
+Displacement Increment Norm:  33.29433722017464
+Displacement Correction Norm:  67.7118765767054
+Residual: 724.2234580758759
+Displacement Increment Norm:  34.494826146344664
+Displacement Correction Norm:  67.70555985454084
+Residual: 726.1953575769563
+Displacement Increment Norm:  33.27161851998268
+Displacement Correction Norm:  67.68254806771499
+Residual: 725.5173559384044
+Displacement Increment Norm:  34.445789918265405
+Displacement Correction Norm:  67.6336015616455
+Residual: 727.4113117411849
+Displacement Increment Norm:  33.25248302523822
+Displacement Correction Norm:  67.61426311772719
+Residual: 721.488816081349
+Displacement Increment Norm:  34.433630628200476
+Displacement Correction Norm:  67.60247593486028
+Residual: 727.7080314964295
+Displacement Increment Norm:  33.25709915017946
+Displacement Correction Norm:  67.60650296824429
+Residual: 725.242004490705
+Displacement Increment Norm:  34.41882725866743
+Displacement Correction Norm:  67.59169112629287
+Residual: 726.6581942692859
+Displacement Increment Norm:  33.20956535849661
+Displacement Correction Norm:  67.5446852301333
+Residual: 725.862864958504
+Displacement Increment Norm:  34.33813381105333
+Displacement Correction Norm:  67.4637419662987
+Residual: 728.1300368330668
+Displacement Increment Norm:  33.1842435951645
+Displacement Correction Norm:  67.43797264724502
+Residual: 722.5524366506785
+Displacement Increment Norm:  34.291925365888076
+Displacement Correction Norm:  67.39157887015318
+Residual: 728.2014447371663
+Displacement Increment Norm:  33.15455357069134
+Displacement Correction Norm:  67.36180465514877
+Residual: 725.5631923913586
+Displacement Increment Norm:  34.28417418280893
+Displacement Correction Norm:  67.35369874802062
+Residual: 727.1339306060099
+Displacement Increment Norm:  33.114860488701574
+Displacement Correction Norm:  67.31399930705977
+Residual: 726.2188364216071
+Displacement Increment Norm:  34.24202626234547
+Displacement Correction Norm:  67.27267038911621
+Residual: 728.2861213669256
+Displacement Increment Norm:  33.11851507974187
+Displacement Correction Norm:  67.2760495272249
+Residual: 722.4767873382656
+Displacement Increment Norm:  34.20394529189848
+Displacement Correction Norm:  67.23757714329903
+Residual: 727.7908541917267
+Displacement Increment Norm:  33.06908414207024
+Displacement Correction Norm:  67.18815458427181
+Residual: 725.083145588325
+Displacement Increment Norm:  34.18263207374556
+Displacement Correction Norm:  67.16685538518482
+Residual: 726.3202083089667
+Displacement Increment Norm:  33.05569759485681
+Displacement Correction Norm:  67.15304917768519
+Residual: 726.25122363253
+Displacement Increment Norm:  34.16863010548276
+Displacement Correction Norm:  67.13899023922399
+Residual: 727.9482143211467
+Displacement Increment Norm:  33.042107163310014
+Displacement Correction Norm:  67.12590982596988
+Residual: 722.3886035846656
+Displacement Increment Norm:  34.18092351282499
+Displacement Correction Norm:  67.13797179023393
+Residual: 727.8622609136565
+Displacement Increment Norm:  33.03021757006479
+Displacement Correction Norm:  67.12578366177932
+Residual: 725.4070091740037
+Displacement Increment Norm:  34.157679370732446
+Displacement Correction Norm:  67.10267769232887
+Residual: 726.8436369397783
+Displacement Increment Norm:  33.02634597701815
+Displacement Correction Norm:  67.0987092946365
+Residual: 726.1022968599731
+Displacement Increment Norm:  34.132783278372756
+Displacement Correction Norm:  67.07392479693883
+Residual: 728.0020573599912
+Load multiplier:  ParameterCF, val = 0.845577
+
+Increment: 13
+Initial Residual: 727.9958331198278
+Displacement Increment Norm:  67.01665454872533
+Displacement Correction Norm:  67.01665454872533
+Residual: 1454.399752565743
+Displacement Increment Norm:  68.67759496043163
+Displacement Correction Norm:  135.64465565520746
+Residual: 1452.917240847043
+Displacement Increment Norm:  66.45428660385207
+Displacement Correction Norm:  135.08177694570225
+Residual: 1442.4967484016283
+Displacement Increment Norm:  68.08430236118755
+Displacement Correction Norm:  134.4886642576335
+Residual: 1448.485283714984
+Displacement Increment Norm:  66.4632861977042
+Displacement Correction Norm:  134.4975006065356
+Residual: 1441.4569452774745
+Displacement Increment Norm:  68.06892202028587
+Displacement Correction Norm:  134.481882011736
+Residual: 1448.778700333944
+Displacement Increment Norm:  66.4738259987732
+Displacement Correction Norm:  134.49233325514595
+Residual: 1442.4494253048008
+Displacement Increment Norm:  68.06342423036753
+Displacement Correction Norm:  134.48678953606716
+Residual: 1447.5875695389561
+Displacement Increment Norm:  66.47727119708487
+Displacement Correction Norm:  134.49002468113375
+Residual: 1443.0006075116216
+Displacement Increment Norm:  68.07811252487167
+Displacement Correction Norm:  134.50473228192268
+Residual: 1448.2349823041013
+Displacement Increment Norm:  66.49802588420157
+Displacement Correction Norm:  134.52541900686774
+Residual: 1441.4254172442459
+Displacement Increment Norm:  68.08994633523612
+Displacement Correction Norm:  134.5372314999947
+Residual: 1448.7788224639219
+Displacement Increment Norm:  66.5131463379243
+Displacement Correction Norm:  134.5522113074139
+Residual: 1442.4156329204593
+Displacement Increment Norm:  68.10529674865003
+Displacement Correction Norm:  134.56761846344668
+Residual: 1447.5035332090952
+Displacement Increment Norm:  66.53000564044444
+Displacement Correction Norm:  134.584362962596
+Residual: 1443.0665366157568
+Displacement Increment Norm:  68.12461401984325
+Displacement Correction Norm:  134.6039045508359
+Residual: 1448.324541926604
+Displacement Increment Norm:  66.55096822333773
+Displacement Correction Norm:  134.62465448962055
+Residual: 1441.4746849061046
+Displacement Increment Norm:  68.16271723792403
+Displacement Correction Norm:  134.66276462032698
+Residual: 1448.970666296508
+Displacement Increment Norm:  66.57302171505692
+Displacement Correction Norm:  134.68468221667905
+Residual: 1442.5396159930065
+Displacement Increment Norm:  68.15104669738834
+Displacement Correction Norm:  134.67339918846176
+Residual: 1447.3181756208903
+Displacement Increment Norm:  66.60171131318866
+Displacement Correction Norm:  134.70187530077527
+Residual: 1443.3309343469568
+Displacement Increment Norm:  68.20469944029742
+Displacement Correction Norm:  134.75537850810474
+Residual: 1448.5192292000243
+Displacement Increment Norm:  66.61898557077286
+Displacement Correction Norm:  134.77262667832073
+Residual: 1441.247176377604
+Displacement Increment Norm:  68.19195544209624
+Displacement Correction Norm:  134.7599585542152
+Residual: 1448.961096471784
+Displacement Increment Norm:  66.63063560533462
+Displacement Correction Norm:  134.77148156554446
+Residual: 1442.8026771289478
+Displacement Increment Norm:  68.22570585300433
+Displacement Correction Norm:  134.80520857706912
+Residual: 1447.3676479070552
+Displacement Increment Norm:  66.64194852072373
+Displacement Correction Norm:  134.81649548216728
+Residual: 1443.1171655874055
+Displacement Increment Norm:  68.22802497715392
+Displacement Correction Norm:  134.81925485905091
+Residual: 1448.4736040324713
+Displacement Increment Norm:  66.67312647076443
+Displacement Correction Norm:  134.85021634846353
+Residual: 1441.3574894913072
+Displacement Increment Norm:  68.2625156160041
+Displacement Correction Norm:  134.88442503871497
+Residual: 1448.8827140455694
+Displacement Increment Norm:  66.68177169059611
+Displacement Correction Norm:  134.89315315229086
+Residual: 1442.742088955981
+Displacement Increment Norm:  68.24900877042397
+Displacement Correction Norm:  134.87971191774525
+Residual: 1447.2563927301533
+Displacement Increment Norm:  66.68407664493431
+Displacement Correction Norm:  134.88199989116333
+Residual: 1443.0465582250642
+Displacement Increment Norm:  68.28465143005948
+Displacement Correction Norm:  134.91763684581431
+Residual: 1448.7214623002656
+Displacement Increment Norm:  66.68774361791021
+Displacement Correction Norm:  134.92131312195903
+Residual: 1441.1541435551194
+Displacement Increment Norm:  68.25904902074251
+Displacement Correction Norm:  134.89594192040536
+Residual: 1448.5912790632617
+Displacement Increment Norm:  66.70653802938095
+Displacement Correction Norm:  134.9145659353463
+Residual: 1443.0025524414034
+Displacement Increment Norm:  68.31044295728967
+Displacement Correction Norm:  134.96586997428724
+Residual: 1447.339355043852
+Displacement Increment Norm:  66.7049087611611
+Displacement Correction Norm:  134.9643326958609
+Residual: 1442.7018995014464
+Displacement Increment Norm:  68.28903877092534
+Displacement Correction Norm:  134.94306554016822
+Residual: 1448.733370384137
+Load multiplier:  ParameterCF, val = 0.877496
+
+Increment: 14
+Initial Residual: 1448.7041451811301
+Displacement Increment Norm:  134.93319952210928
+Displacement Correction Norm:  134.93319952210928
+Residual: 2900.5931185442864
+Displacement Increment Norm:  137.029193237006
+Displacement Correction Norm:  271.9332216004552
+Residual: 2895.4203762512843
+Displacement Increment Norm:  133.8541166758545
+Displacement Correction Norm:  270.8543342637747
+Residual: 2875.4477984522323
+Displacement Increment Norm:  135.94908653064624
+Displacement Correction Norm:  269.7742152125894
+Residual: 2884.984323288033
+Displacement Increment Norm:  133.9622986502749
+Displacement Correction Norm:  269.8826180419142
+Residual: 2875.092160488858
+Displacement Increment Norm:  136.03261428722317
+Displacement Correction Norm:  269.9659236415011
+Residual: 2885.2585288739006
+Displacement Increment Norm:  134.01422384464863
+Displacement Correction Norm:  270.01795056919843
+Residual: 2876.67836883034
+Displacement Increment Norm:  136.10162671521658
+Displacement Correction Norm:  270.0869193682951
+Residual: 2884.4708711675476
+Displacement Increment Norm:  134.0821610961455
+Displacement Correction Norm:  270.15488010670236
+Residual: 2876.744405886454
+Displacement Increment Norm:  136.16001686346698
+Displacement Correction Norm:  270.2131789134673
+Residual: 2885.912900097864
+Displacement Increment Norm:  134.11779440066437
+Displacement Correction Norm:  270.2489045873263
+Residual: 2875.651354008798
+Displacement Increment Norm:  136.20529945157472
+Displacement Correction Norm:  270.29412598543485
+Residual: 2885.7834558407058
+Displacement Increment Norm:  134.13008513182794
+Displacement Correction Norm:  270.30660810604996
+Residual: 2876.9928702128122
+Displacement Increment Norm:  136.20746101858668
+Displacement Correction Norm:  270.30854461239727
+Residual: 2884.866404281672
+Displacement Increment Norm:  134.16017499269074
+Displacement Correction Norm:  270.3386563084238
+Residual: 2876.8050791548735
+Displacement Increment Norm:  136.2576278812603
+Displacement Correction Norm:  270.38886745392097
+Residual: 2885.9210200054467
+Displacement Increment Norm:  134.21272259010112
+Displacement Correction Norm:  270.4413876887622
+Residual: 2875.8867069843595
+Displacement Increment Norm:  136.2891557107489
+Displacement Correction Norm:  270.47284293402294
+Residual: 2885.8260183273565
+Displacement Increment Norm:  134.2333449897635
+Displacement Correction Norm:  270.4935147166595
+Residual: 2876.883555976541
+Displacement Increment Norm:  136.31598761319623
+Displacement Correction Norm:  270.5203110482133
+Residual: 2884.912756496721
+Displacement Increment Norm:  134.26607067672782
+Displacement Correction Norm:  270.55305766163434
+Residual: 2876.8914519740956
+Displacement Increment Norm:  136.34443974283292
+Displacement Correction Norm:  270.5814734165347
+Residual: 2885.8704953416295
+Displacement Increment Norm:  134.24258614356356
+Displacement Correction Norm:  270.55814840507384
+Residual: 2875.822970568418
+Displacement Increment Norm:  136.33857491502758
+Displacement Correction Norm:  270.55216795416726
+Residual: 2885.665953049247
+Displacement Increment Norm:  134.28942540979986
+Displacement Correction Norm:  270.59899410152593
+Residual: 2876.7837175454993
+Displacement Increment Norm:  136.36402412306165
+Displacement Correction Norm:  270.624381018395
+Residual: 2884.9467482256982
+Displacement Increment Norm:  134.29213790727636
+Displacement Correction Norm:  270.6271552378479
+Residual: 2876.7365489177564
+Displacement Increment Norm:  136.3898279542084
+Displacement Correction Norm:  270.6530043815571
+Residual: 2885.5854715259024
+Displacement Increment Norm:  134.32186610365363
+Displacement Correction Norm:  270.6827863975993
+Residual: 2875.9606029879005
+Displacement Increment Norm:  136.3996041196967
+Displacement Correction Norm:  270.6924327442389
+Residual: 2885.7175178813413
+Displacement Increment Norm:  134.3181815612839
+Displacement Correction Norm:  270.6887858385053
+Residual: 2876.6365179875033
+Displacement Increment Norm:  136.41317243576327
+Displacement Correction Norm:  270.7023500710268
+Residual: 2884.9545463073696
+Displacement Increment Norm:  134.32079109633884
+Displacement Correction Norm:  270.7049948314771
+Residual: 2876.7871287590892
+Displacement Increment Norm:  136.41591977870203
+Displacement Correction Norm:  270.7077038707642
+Residual: 2885.449624885594
+Displacement Increment Norm:  134.35025936418816
+Displacement Correction Norm:  270.73716873276135
+Residual: 2875.896773071531
+Displacement Increment Norm:  136.43486762715116
+Displacement Correction Norm:  270.7560794007688
+Residual: 2885.649879256902
+Displacement Increment Norm:  134.35919050103135
+Displacement Correction Norm:  270.76503051398805
+Residual: 2876.5005668074878
+Displacement Increment Norm:  136.4483201483907
+Displacement Correction Norm:  270.77846648160266
+Residual: 2884.825237130875
+Displacement Increment Norm:  134.37331400581493
+Displacement Correction Norm:  270.7926066117499
+Residual: 2876.7551659715778
+Displacement Increment Norm:  136.4655233309579
+Displacement Correction Norm:  270.80981938286345
+Residual: 2885.390977027426
+Load multiplier:  ParameterCF, val = 0.908295
+
+Increment: 15
+Initial Residual: 2885.3505659008406
+Displacement Increment Norm:  270.748282985465
+Displacement Correction Norm:  270.748282985465
+Residual: 5775.303335834862
+Displacement Increment Norm:  273.0086681565523
+Displacement Correction Norm:  543.7407893353267
+Residual: 5759.410678815129
+Displacement Increment Norm:  268.3642381544187
+Displacement Correction Norm:  541.3568712357282
+Residual: 5724.509371315023
+Displacement Increment Norm:  270.74838631851196
+Displacement Correction Norm:  539.0967102934983
+Residual: 5736.224230086957
+Displacement Increment Norm:  268.47166324415906
+Displacement Correction Norm:  539.2041951803385
+Residual: 5724.8621218278595
+Displacement Increment Norm:  270.84568953617566
+Displacement Correction Norm:  539.3014647435893
+Residual: 5736.28093819136
+Displacement Increment Norm:  268.5270109575098
+Displacement Correction Norm:  539.3568471836321
+Residual: 5725.891025976929
+Displacement Increment Norm:  270.90616703771616
+Displacement Correction Norm:  539.4173056287228
+Residual: 5735.927034135501
+Displacement Increment Norm:  268.5926377268274
+Displacement Correction Norm:  539.4829301393855
+Residual: 5725.691024769158
+Displacement Increment Norm:  270.9667922728428
+Displacement Correction Norm:  539.5435561496447
+Residual: 5736.901276318529
+Displacement Increment Norm:  268.5960384628385
+Displacement Correction Norm:  539.547035510343
+Residual: 5725.147591285305
+Displacement Increment Norm:  270.982368483471
+Displacement Correction Norm:  539.5625480567488
+Residual: 5736.516804412142
+Displacement Increment Norm:  268.6583755565102
+Displacement Correction Norm:  539.6248631611254
+Residual: 5726.037278776039
+Displacement Increment Norm:  271.0376893530908
+Displacement Correction Norm:  539.6801946930525
+Residual: 5736.167216314711
+Displacement Increment Norm:  268.6831192277722
+Displacement Correction Norm:  539.7049645469679
+Residual: 5725.774039101569
+Displacement Increment Norm:  271.06380984587065
+Displacement Correction Norm:  539.7310676093371
+Residual: 5736.897364648318
+Displacement Increment Norm:  268.7252395827028
+Displacement Correction Norm:  539.7731837991757
+Residual: 5725.293346588394
+Displacement Increment Norm:  271.10298344585436
+Displacement Correction Norm:  539.812354888635
+Residual: 5736.67200225924
+Displacement Increment Norm:  268.7016487907352
+Displacement Correction Norm:  539.7888489199547
+Residual: 5725.968552490151
+Displacement Increment Norm:  271.0943834200299
+Displacement Correction Norm:  539.7801808535863
+Residual: 5736.1558469337215
+Displacement Increment Norm:  268.756997568856
+Displacement Correction Norm:  539.8354966211415
+Residual: 5725.754681197845
+Displacement Increment Norm:  271.1382358001909
+Displacement Correction Norm:  539.8793740591001
+Residual: 5736.885017623341
+Displacement Increment Norm:  268.7782610689351
+Displacement Correction Norm:  539.9006495757698
+Residual: 5725.293142219613
+Displacement Increment Norm:  271.1604932200068
+Displacement Correction Norm:  539.9228955247194
+Residual: 5736.603034892718
+Displacement Increment Norm:  268.7939592946188
+Displacement Correction Norm:  539.9386037471314
+Residual: 5725.944539134568
+Displacement Increment Norm:  271.1777993151136
+Displacement Correction Norm:  539.9558960472648
+Residual: 5736.195500168468
+Displacement Increment Norm:  268.8299579512231
+Displacement Correction Norm:  539.9918806958269
+Residual: 5725.7408179322
+Displacement Increment Norm:  271.20793710029125
+Displacement Correction Norm:  540.0220346592861
+Residual: 5736.89451840222
+Displacement Increment Norm:  268.79259491544286
+Displacement Correction Norm:  539.9847685104052
+Residual: 5725.270607628071
+Displacement Increment Norm:  271.1977329558414
+Displacement Correction Norm:  539.9745086481377
+Residual: 5736.5786538301645
+Displacement Increment Norm:  268.8311125050198
+Displacement Correction Norm:  540.0129914445292
+Residual: 5725.883713267304
+Displacement Increment Norm:  271.21857832479736
+Displacement Correction Norm:  540.0338367494486
+Residual: 5736.189864071251
+Displacement Increment Norm:  268.85341045373076
+Displacement Correction Norm:  540.0561315486013
+Residual: 5725.664137178391
+Displacement Increment Norm:  271.2366499430887
+Displacement Correction Norm:  540.0742106817921
+Residual: 5736.747063858423
+Displacement Increment Norm:  268.864830840122
+Displacement Correction Norm:  540.0856421138437
+Residual: 5725.236336532707
+Displacement Increment Norm:  271.2489519422347
+Displacement Correction Norm:  540.0979330894631
+Residual: 5736.505537625448
+Displacement Increment Norm:  268.8803598062235
+Displacement Correction Norm:  540.1134564801765
+Residual: 5725.793680676378
+Displacement Increment Norm:  271.26327097935444
+Displacement Correction Norm:  540.1277720631165
+Residual: 5736.157495768981
+Displacement Increment Norm:  268.906556038381
+Displacement Correction Norm:  540.1539560110034
+Residual: 5725.637533248925
+Displacement Increment Norm:  271.2849642521867
+Displacement Correction Norm:  540.1756676321506
+Residual: 5736.7735862780455
+Load multiplier:  ParameterCF, val = 0.938083
+
+Increment: 16
+Initial Residual: 5736.728651096227
+Displacement Increment Norm:  540.1262713596269
+Displacement Correction Norm:  540.1262713596269
+Residual: 11478.084083313814
+Displacement Increment Norm:  542.4773388262508
+Displacement Correction Norm:  1082.5948396405174
+Residual: 11438.219270754054
+Displacement Increment Norm:  535.2972739900579
+Displacement Correction Norm:  1077.7659150828922
+Residual: 11376.90191561179
+Displacement Increment Norm:  537.8528039715515
+Displacement Correction Norm:  1073.1414290561017
+Residual: 11390.759472376749
+Displacement Increment Norm:  535.4139403704405
+Displacement Correction Norm:  1073.2581480939796
+Residual: 11377.943082380198
+Displacement Increment Norm:  537.9261001276994
+Displacement Correction Norm:  1073.3313957059654
+Residual: 11390.607181826852
+Displacement Increment Norm:  535.4434103678356
+Displacement Correction Norm:  1073.3608960172846
+Residual: 11378.837022306125
+Displacement Increment Norm:  537.9561185581885
+Displacement Correction Norm:  1073.390881961982
+Residual: 11390.303271948967
+Displacement Increment Norm:  535.471959873152
+Displacement Correction Norm:  1073.4194577137719
+Residual: 11378.259694761646
+Displacement Increment Norm:  537.9844669579119
+Displacement Correction Norm:  1073.4477876540316
+Residual: 11391.11325850138
+Displacement Increment Norm:  535.4962782219316
+Displacement Correction Norm:  1073.4721312525276
+Residual: 11377.904103495572
+Displacement Increment Norm:  538.0057654720003
+Displacement Correction Norm:  1073.493404940974
+Residual: 11390.526318736034
+Displacement Increment Norm:  535.5161295131251
+Displacement Correction Norm:  1073.5132723523434
+Residual: 11378.67678037348
+Displacement Increment Norm:  538.0251737279466
+Displacement Correction Norm:  1073.5326596842422
+Residual: 11390.218369891458
+Displacement Increment Norm:  535.5353493763215
+Displacement Correction Norm:  1073.5518974373413
+Residual: 11378.125024029458
+Displacement Increment Norm:  538.04369271202
+Displacement Correction Norm:  1073.5704054636885
+Residual: 11390.926359734694
+Displacement Increment Norm:  535.5518926779723
+Displacement Correction Norm:  1073.5869670302484
+Residual: 11377.797007254687
+Displacement Increment Norm:  538.0586220991527
+Displacement Correction Norm:  1073.6018786024636
+Residual: 11390.385370476255
+Displacement Increment Norm:  535.5655336367096
+Displacement Correction Norm:  1073.6155300817973
+Residual: 11378.48465229392
+Displacement Increment Norm:  538.0723792002165
+Displacement Correction Norm:  1073.6292715017173
+Residual: 11390.114173011334
+Displacement Increment Norm:  535.5797172741715
+Displacement Correction Norm:  1073.6434688748132
+Residual: 11377.981141211249
+Displacement Increment Norm:  538.0856947405401
+Displacement Correction Norm:  1073.6567777188268
+Residual: 11390.74589878842
+Displacement Increment Norm:  535.592064976866
+Displacement Correction Norm:  1073.6691394192553
+Residual: 11377.697955872429
+Displacement Increment Norm:  538.0970304461632
+Displacement Correction Norm:  1073.680461544385
+Residual: 11390.253658774096
+Displacement Increment Norm:  535.6023438790764
+Displacement Correction Norm:  1073.6907471392658
+Residual: 11378.316238614922
+Displacement Increment Norm:  538.1075782061555
+Displacement Correction Norm:  1073.7012828218756
+Residual: 11390.025920544322
+Displacement Increment Norm:  535.6137205667455
+Displacement Correction Norm:  1073.7126702056178
+Residual: 11377.858471772981
+Displacement Increment Norm:  538.1179265172174
+Displacement Correction Norm:  1073.7230149585541
+Residual: 11390.592669214939
+Displacement Increment Norm:  535.6236745303202
+Displacement Correction Norm:  1073.7329797380385
+Residual: 11377.620363337317
+Displacement Increment Norm:  538.1271763101963
+Displacement Correction Norm:  1073.7422190479194
+Residual: 11390.144245733012
+Displacement Increment Norm:  535.6321335498387
+Displacement Correction Norm:  1073.7506817609112
+Residual: 11378.177888100421
+Displacement Increment Norm:  538.135861531115
+Displacement Correction Norm:  1073.759357683215
+Residual: 11389.958316691145
+Displacement Increment Norm:  535.641997671113
+Displacement Correction Norm:  1073.7692300095662
+Residual: 11377.760750532321
+Displacement Increment Norm:  538.1444950054394
+Displacement Correction Norm:  1073.7778623973418
+Residual: 11390.467446004368
+Displacement Increment Norm:  535.6506538187217
+Displacement Correction Norm:  1073.7865267955694
+Residual: 11377.56417049619
+Displacement Increment Norm:  538.152575850983
+Displacement Correction Norm:  1073.794599596597
+Residual: 11390.057596173947
+Displacement Increment Norm:  535.6582635854161
+Displacement Correction Norm:  1073.8022105600082
+Residual: 11378.06730372097
+Displacement Increment Norm:  538.1602557604142
+Displacement Correction Norm:  1073.8098834381983
+Residual: 11389.90970090917
+Displacement Increment Norm:  535.6674352001016
+Displacement Correction Norm:  1073.8190611143832
+Residual: 11377.686012222366
+Displacement Increment Norm:  538.1679673493445
+Displacement Correction Norm:  1073.826773643981
+Residual: 11390.367010405844
+Load multiplier:  ParameterCF, val = 0.966954
+
+Increment: 17
+Initial Residual: 11390.320557420966
+Displacement Increment Norm:  1073.8046022919355
+Displacement Correction Norm:  1073.8046022919355
+Residual: 22784.16533190676
+Displacement Increment Norm:  1076.1808885310045
+Displacement Correction Norm:  2149.9807439702645
+Residual: 22694.408714599744
+Displacement Increment Norm:  1064.2583768036347
+Displacement Correction Norm:  2140.434554152624
+Residual: 22584.78298503862
+Displacement Increment Norm:  1066.9894491285231
+Displacement Correction Norm:  2131.2431467293995
+Residual: 22600.13098904449
+Displacement Increment Norm:  1064.4900425350777
+Displacement Correction Norm:  2131.4748308816543
+Residual: 22586.583781307047
+Displacement Increment Norm:  1067.1314076601905
+Displacement Correction Norm:  2131.616773594862
+Residual: 22601.043592862898
+Displacement Increment Norm:  1064.5515936100694
+Displacement Correction Norm:  2131.678329779207
+Residual: 22588.160604787336
+Displacement Increment Norm:  1067.1853265760064
+Displacement Correction Norm:  2131.7322396396908
